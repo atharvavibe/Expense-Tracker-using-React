@@ -5,9 +5,9 @@ import ExpenseItem from "./components/ExpenseItem";
 function App() {
   const expense = [
     { title: "Car Insurance", amount: 299.23, date: new Date(2021, 7, 13) },
-    { title: "Ramen", amount: 20.23, date: new Date(2022, 7, 13) },
-    { title: "Manga", amount: 15.23, date: new Date(2021, 7, 13) },
-    { title: "MacD", amount: 5.23, date: new Date(2021, 7, 13) },
+    { title: "Ramen", amount: 20.23, date: new Date(2022, 3, 29) },
+    { title: "Manga", amount: 15.23, date: new Date(2021, 6, 3) },
+    { title: "MacD", amount: 5.23, date: new Date(2021, 12, 18) },
   ];
   return (
     <div>
